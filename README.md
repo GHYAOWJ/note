@@ -1,5 +1,5 @@
 # note
 
 ```html
-<font color="green"> red </font>
+<span style="color: green"> Some green text </span>
 ```
