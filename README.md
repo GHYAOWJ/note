@@ -1,5 +1,5 @@
 # note
 
-```css
-<span style="color: green"> Some green text </span>
+```diff
+- Some green text 
 ```
