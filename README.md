@@ -1,2 +1,2 @@
 # note
-<font color = red> red </font>
+<font color = "red"> red </font>
