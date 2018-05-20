@@ -1,5 +1,5 @@
 # note
 
 ```
-<font color="green"> red <>
+<font color="green"> red </f>
 ```
