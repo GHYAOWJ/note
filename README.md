@@ -1,2 +1,3 @@
 # note
-<font color = "red"> red </font>
+
+<span style="color:red;"> red </span>
